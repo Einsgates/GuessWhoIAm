@@ -17,7 +17,7 @@ const cardArray = [
   },
   {
     name: 'shuyang',
-    img: 'images/shuyang.jfif'
+    img: 'images/liwen.jfif'
   },
   {
     name: 'ruining',
@@ -42,7 +42,7 @@ const cardArray = [
   },
   {
     name: 'shuyang',
-    img: 'images/shuyang.jfif'
+    img: 'images/liwen.jfif'
   },
   {
     name: 'ruining',
